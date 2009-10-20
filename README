@@ -1,8 +1,7 @@
 ==========================================
 
-Welcome to ZSort3D 
 Actionscript 3.0 z-plane rendering engine
 
 ===========================================
 
-This project is written in actionscript 3.0, and renders objects in the displaylist with a z-plane simulated using scale and opacity.  The engine uses cos and sin to adjust input from the mouse to adjust x, y, scale, and opacity for all objects add to it's displaylist.
+This project is written in actionscript 3.0, and renders objects in the displaylist with the z-plane simulated using scale and opacity.  The engine uses input from the mouse and sin/cos to adjust x, y, scale, and opacity for all objects add to it's displaylist.
