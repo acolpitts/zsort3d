@@ -1,0 +1,8 @@
+bin/*
+.project
+.flexLibProperties
+.flexProperties
+.actionScriptProperties
+.settings
+*~
+.DS_store
